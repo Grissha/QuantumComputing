@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuantumComputing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuantumComputing_jar</output-path>
+    <root id="archive" name="QuantumComputing.jar">
+      <element id="module-output" name="QuantumComputing" />
+    </root>
+  </artifact>
+</component>
